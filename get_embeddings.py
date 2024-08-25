@@ -24,4 +24,4 @@ for description in descriptions:
 with open('Product_data.json', 'w') as json_file:
     json.dump(description_vectors_list, json_file, indent=2)
 
-print("JSON file created: dummy_data.json")
+print("JSON file created: Product_data.json")
