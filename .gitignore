@@ -3,3 +3,6 @@ llm_rag/
 
 #LLM model
 llama-2-7b-chat.Q2_K.gguf
+
+#Youtube video
+Video/
